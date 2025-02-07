@@ -1,0 +1,185 @@
+.site-header {
+    background-color: #2A9D8F;
+    width: 1440px;
+    padding: 38px 130px;
+    margin: auto;
+}
+
+.logo-img-link {
+    display: inline-block;
+    vertical-align: middle;
+    width: 46px;
+    height: 46px;
+    margin-right: 680px;
+
+
+}
+
+.site-logo {
+    height: 100%;
+    width: 100%;
+}
+
+.nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header-lii {
+    display: inline-block;
+}
+
+.li-middle {
+    margin-inline: 80px;
+}
+
+.active {
+    font-family: Nerko One;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.005em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.section {
+    width: 1440px;
+    height: 640px;
+    background-color: #D4F3F0;
+    ;
+    margin: auto;
+
+}
+
+.section-img {
+    padding: 80px;
+    vertical-align: middle;
+
+}
+
+.section-2 {
+    width: 460px;
+    height: 448px;
+    top: 80px;
+    left: 850px;
+    gap: 0px;
+    opacity: 0px;
+    display: inline-block;
+    vertical-align: middle
+}
+
+.section-h2 {
+    font-family: Kanit;
+    color: #06686E;
+    ;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.005em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-bottom: 32px;
+}
+
+.section-p {
+    font-family: Kanit;
+    color: #06686E;
+
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 275;
+    line-height: 27px;
+    letter-spacing: 0.005em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-bottom: 60px;
+}
+
+.section-button {
+    width: 112px;
+    height: 46px;
+    top: 402px;
+    gap: 0px;
+    opacity: 0px;
+    background: #2A9D8F;
+
+}
+
+.article {
+    margin: 80px auto;
+    width: 1180px;
+    height: 296px;
+    top: 842px;
+    left: 130px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.article-h3 {
+    color: #06686E;
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0.005em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-bottom: 32px;
+}
+
+.article-p {
+    font-family: Kanit;
+    color: #06686E;
+    font-size: 24px;
+    font-weight: 275;
+    line-height: 36px;
+    letter-spacing: 0.005em;
+    text-align: justified;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-align: justify;
+}
+
+button {
+    font-family: Kanit;
+    color: #FFFFFF;
+    border: none;
+    font-size: 16px;
+    font-weight: 275;
+    line-height: 24px;
+    width: 112px;
+    height: 46px;
+    top: 402px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+footer {
+    background-color: #2A9D8F;
+    width: 1440px;
+    height: 175px;
+    top: 1218px;
+    margin: auto;
+    text-align: center;
+}
+
+.footer-h4 {
+    font-family: Kanit;
+    color: #FFFFFF;
+    font-family: Kanit;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding: 38px 646px 97px 645px
+}
